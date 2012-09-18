@@ -1,5 +1,5 @@
 name:                haskell-platform
-version:             2012.2.761.0
+version:             2012.2.761.1
 homepage:            http://haskell.org/platform
 license:             BSD3
 license-file:        LICENSE
@@ -81,7 +81,7 @@ library
   -- Depending on programs does not work, they are not registered
   -- We list them to help distro packaging.
   build-tools:
-    cabal-install               ==0.15.2
+    cabal-install               ==0.15.1
 --    alex                        ==3.0.1,
 --    happy                       ==1.18.9
     -- hscolour                 ==1.19
