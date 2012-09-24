@@ -83,7 +83,7 @@ library
   build-tools:
     cabal-install               ==0.15.1
 --    alex                        ==3.0.1,
---    happy                       ==1.18.9
+    happy                       ==1.18.10
     -- hscolour                 ==1.19
     -- haddock                  ==2.10.0 -- need to use the one shipped with ghc
 
