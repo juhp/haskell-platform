@@ -81,7 +81,7 @@ library
   -- Depending on programs does not work, they are not registered
   -- We list them to help distro packaging.
   build-tools:
-    cabal-install               ==0.15.1
+    cabal-install               ==0.15.1,
 --    alex                        ==3.0.1,
     happy                       ==1.18.10
     -- hscolour                 ==1.19
